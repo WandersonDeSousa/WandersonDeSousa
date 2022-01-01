@@ -1,4 +1,4 @@
-### Olá! Muito prazer, Eu sou o Wanderson, alguns me chamam de 'Wands'👋
+### Olá! Muito prazer, Eu sou o Wanderson, Desenvolvedor de Back-end e Front-end 🛰☄
 
 - 🎲 Atualmente Estudo Análise e Desenvolvimento de Sistemas
 - 💻  No momento também estou cursando Javascript, HTML e Css na Alura
