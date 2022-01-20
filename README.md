@@ -1,4 +1,4 @@
-### Olá! Muito prazer, Eu sou o Wanderson. Um cara fascinado pelo mundo da tecnologia 🛰☄
+### Olá! Muito prazer, sou o Wanderson. Um cara fascinado pelo mundo da tecnologia 🛰☄
 
 - 🎲 Atualmente Estudo Análise e Desenvolvimento de Sistemas
 - 💻  No momento também estou cursando Javascript, HTML e Css na Alura
